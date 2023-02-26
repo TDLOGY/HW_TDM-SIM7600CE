@@ -44,6 +44,11 @@ These module can replaces SIM800L module with complete pinout board & power conv
 [DOWNLOAD HERE](https://github.com/TDLOGY/ATCommand_Test)
 
 See more our product at  [www.tdmaker.space](https://tdlogy.com/en/makerspace/)
+---
+## Example code with Arduino:
+
+[SIM7600CE AT Command Adruino Test](https://github.com/TDLOGY/esp32_sim7600x_arduino_test)
+
 
 ---
 
