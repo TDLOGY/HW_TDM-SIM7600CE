@@ -1,5 +1,5 @@
 ---
-__Advertisement :)__
+__Advertisement :wink: __
 #### Order easy online at:
 - __[TDM-SIM7600CE-M1S](https://linhkienthuduc.com/module-4g-3g-2g-gps-simcom-sim7600ce-m1s-lte-cat-4-ra-chan)__ - 2G/3G/4G LTE CAT 4 GPS BREAKOUT MODULE
 - __[TDM-A7600C-L1](https://linhkienthuduc.com/module-4g-3g-2g-simcom-a7600c-l1-lte-cat-1-ra-chan)__ - 2G/3G/4G LTE CAT 1 BREAKOUT MODULE.
@@ -47,7 +47,6 @@ See more our product at  [www.tdmaker.space](https://tdmaker.space)
 ---
 
 ## Pin Tables
-
 | Name| Description |
 | ------ | ----------- |
 | VIN | Input power for module, input range from 4.8-16V, average supply current should be above 1A (at 12V)|
@@ -69,6 +68,12 @@ See more our product at  [www.tdmaker.space](https://tdmaker.space)
 | FLYMODE| Flymode|
 | RESET| Reset pin for sim module|
 | POWER KEY| PWR KEY Pin, default pulled down by **0 Ohm** (**R10**), to using it, please remove R10|
+### Pin logic level
+- These pin supported to connect direct with other MCU with higher logic level (example: 3.3V, 5V, 12V..) as below:
+
+| Name| Description |
+| ------ | ----------- |
+| 3.3V or 5V logic level | TX, RX, DTR, RTS, CTS, RI|
 - ### Pin  Out Diagram
 
 ![Pinout](https://github.com/TDLOGY/TDM-SIM7600CE/blob/main/TDM-SIM7600CE-pinout.PNG)
@@ -76,5 +81,7 @@ See more our product at  [www.tdmaker.space](https://tdmaker.space)
 - ### Module Dimension
 
 ![Pinout](https://github.com/TDLOGY/TDM-SIM7600CE/blob/main/TDM-SIM7600CE-M1S%20Dimension.PNG)
+
+
 
 
