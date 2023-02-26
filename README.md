@@ -39,11 +39,11 @@ These module can replaces SIM800L module with complete pinout board & power conv
 ---
 ## AT Command Test GUI:
 
-[AT Command Test SIMCOM Module: ](https://linhkienthuduc.com/at-command-test-cho-cac-dong-module-sim)
+[User Guide ( Vietnamese)](https://linhkienthuduc.com/at-command-test-cho-cac-dong-module-sim)
 
 [DOWNLOAD HERE](https://github.com/TDLOGY/ATCommand_Test)
 
-See more our product at  [www.tdmaker.space](https://tdmaker.space)
+See more our product at  [www.tdmaker.space](https://tdlogy.com/en/makerspace/)
 
 ---
 
